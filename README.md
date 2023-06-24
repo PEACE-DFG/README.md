@@ -1,4 +1,4 @@
-### Hi there , I'm CODEMaster - aka  [DFG] <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
+### Hi there , I'm CODEMaster - aka  [DFG] 👋
 ## I am a FrontEnd Developer, A student, Webdev Teacher, Electrical Engineer and a Musician
 -📚 I am currently learning React💻 <br/>
 -💻 I am Looking to collaborate with other Programmers to Learn From Them<br/>
@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="image" width="22px" src="https://pngimg.com/uploads/github/github_PNG40.png"/>][website]
-[<img align="left" alt="image" src="https://app.netlify.com/teams/peace-dfg/overview" width="22px"/>][website2]
+[<img align="left" alt="image" src="https://th.bing.com/th/id/OIP.hXaOT1AkPnxwNC82h6tEwQHaCp?pid=ImgDet&rs=1" width="22px"/>][website2]
 
 <br/>
 
@@ -32,7 +32,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 [website]:https://github.com/PEACE-DFG
-[website2]:https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png
+[website2]:https://app.netlify.com/teams/peace-dfg/overview
 
 [webdevplaylist]:https://www.bing.com/aclick?ld=e8gC1QMuDQiMlndrgFE5Q1PTVUCUy_4shLeQW78sNFuy_iCliZyth_2GYkkg1jFSM3dRwYkeOfXAMPNkVyTXp4gmdKk1ORNC5CYccVmurOlouNiFOOLjR1NsXC2aJ3MMRFZ9dwnFH35l8yqsQYHegqM0RMk5AmIxbkY4xUYQU-J_P-XanmdEhkidlGovlVsoWh-_SjaA&u=aHR0cHMlM2ElMmYlMmZ3d3cuY29kZWNhZGVteS5jb20lMmZsZWFybiUyZnBhdGhzJTJmd2ViLWRldmVsb3BtZW50JTNmdXRtX2lkJTNkdF9rd2QtNzk3MTQ5ODY5Mzk0ODMlM2Fsb2MtMTM3JTNhYWdfMTI3NTQzNDEwOTkwMzg3MCUzYWNwXzM3MDMxNDUxNyUzYW5fbyUzYWRfYyUyNm1zY2xraWQlM2RhYmFhMjYwMTdmM2MxMTZlMjVhMjQyOTdhNGNjOTFmZiUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFJPVyUyNTIwTGFuZ3VhZ2UlMjUzQSUyNTIwQmFzaWMlMjUyMC0lMjUyMEV4YWN0JTI2dXRtX3Rlcm0lM2RodG1sJTI1MjBmb3IlMjUyMGJlZ2lubmVycyUyNnV0bV9jb250ZW50JTNkSFRNTCUyNTIwJTI1MjYlMjUyMENTUw&rlid=abaa26017f3c116e25a24297a4cc91ff&ntb=1
 [webdevplaylist2]:https://www.bing.com/ck/a?!&&p=a5ac5e7d1af2ba33JmltdHM9MTY4NzU2NDgwMCZpZ3VpZD0wOTZjN2ViYi0zNGJmLTZhMjMtMDMxZS02ZDgxMzVhMjZiMzUmaW5zaWQ9NTIyMw&ptn=3&hsh=3&fclid=096c7ebb-34bf-6a23-031e-6d8135a26b35&psq=css+tutorial&u=a1aHR0cHM6Ly93d3cudHV0b3JpYWxzcG9pbnQuY29tL2Nzcy9pbmRleC5odG0&ntb=1
