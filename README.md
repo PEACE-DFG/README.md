@@ -1,5 +1,5 @@
 ### Hi there , I'm CODEMaster - aka  [DFG] 👋
-## I am a FrontEnd Developer, A student, Webdev Teacher, Electrical Engineer and a Musician
+## I am a FrontEnd Developer,A student,Webdev Tutor,Electrical Engineer and a Musician
 -📚 I am currently learning React💻 <br/>
 -💻 I am Looking to collaborate with other Programmers to Learn From Them<br/>
 -🥅 2023 goals : Contributte more to Open Source projects<br/>
@@ -43,6 +43,10 @@
 ### 📕 Latest BlogPost
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="PEACE-DFG's Github Status" src=" https://github-readme-stats.vercel.app/api?username=PEACE-DFG&show_icons=true&hide_border=true"/>
 
 [website]:https://github.com/PEACE-DFG
 [website2]:https://app.netlify.com/teams/peace-dfg/overview
