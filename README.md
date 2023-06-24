@@ -51,7 +51,8 @@
 
 ---
 
-<img align="left" alt="PEACE-DFG's Github Status" src=" https://github-readme-stats.vercel.app/api?username=PEACE-DFG&show_icons=true&hide_border=true"/>
+[![CODEMaster GitHub stats](https://github-readme-stats.vercel.app/api?username=PEACE-DFG)](https://github.com/PEACE-DFG/github-readme-stats)
+
 
 [website]:https://github.com/PEACE-DFG
 [website2]:https://app.netlify.com/teams/peace-dfg/overview
