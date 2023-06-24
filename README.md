@@ -1,5 +1,5 @@
 ### Hi there , I'm CODEMaster - aka  [DFG] 
-## I am a FrontEnd Developer, A student and a Musician
+## I am a FrontEnd Developer, A student, Webdev Teacher and a Musician
 -📚 I am currently learning React💻 <br/>
 -💻 I am Looking to collaborate with other Programmers to Learn From Them<br/>
 -🥅 2023 goals : Contributte more to Open Source projects<br/>
@@ -26,6 +26,8 @@
 
 <br/>
 <br/>
+### 📕 Latest BlogPost
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 
 [website]:https://github.com/PEACE-DFG
 [website2]:https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png
@@ -34,3 +36,5 @@
 [webdevplaylist2]:https://www.bing.com/ck/a?!&&p=a5ac5e7d1af2ba33JmltdHM9MTY4NzU2NDgwMCZpZ3VpZD0wOTZjN2ViYi0zNGJmLTZhMjMtMDMxZS02ZDgxMzVhMjZiMzUmaW5zaWQ9NTIyMw&ptn=3&hsh=3&fclid=096c7ebb-34bf-6a23-031e-6d8135a26b35&psq=css+tutorial&u=a1aHR0cHM6Ly93d3cudHV0b3JpYWxzcG9pbnQuY29tL2Nzcy9pbmRleC5odG0&ntb=1
 
 [cssplaylist]:https://www.bing.com/ck/a?!&&p=a5ac5e7d1af2ba33JmltdHM9MTY4NzU2NDgwMCZpZ3VpZD0wOTZjN2ViYi0zNGJmLTZhMjMtMDMxZS02ZDgxMzVhMjZiMzUmaW5zaWQ9NTIyMw&ptn=3&hsh=3&fclid=096c7ebb-34bf-6a23-031e-6d8135a26b35&psq=css+tutorial&u=a1aHR0cHM6Ly93d3cudHV0b3JpYWxzcG9pbnQuY29tL2Nzcy9pbmRleC5odG0&ntb=1
+
+
