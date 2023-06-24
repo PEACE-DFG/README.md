@@ -1,5 +1,5 @@
 ### Hi there , I'm CODEMaster - aka  [DFG] 
-## I am a FrontEnd Developer, A student, Webdev Teacher and a Musician
+## I am a FrontEnd Developer, A student, Webdev Teacher, Electrical Engineer and a Musician
 -📚 I am currently learning React💻 <br/>
 -💻 I am Looking to collaborate with other Programmers to Learn From Them<br/>
 -🥅 2023 goals : Contributte more to Open Source projects<br/>
