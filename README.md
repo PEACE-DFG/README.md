@@ -1,9 +1,9 @@
 ### Hi there , I'm CODEMaster - aka  [DFG] 
 ## I am a FrontEnd Developer, A student and a Musician
--📚 I am currently learning React💻
--💻 I am Looking to collaborate with other Programmers to Learn From Them
--🥅 2023 goals : Contributte more to Open Source projects
--⚡Fun Facts: I love musical Instruments Most Importantly Drums 🥁🎶
+-📚 I am currently learning React💻 <br/>
+-💻 I am Looking to collaborate with other Programmers to Learn From Them<br/>
+-🥅 2023 goals : Contributte more to Open Source projects<br/>
+-⚡Fun Facts: I love musical Instruments Most Importantly Drums 🥁🎶<br/>
 
 ### Connect with me:
 
