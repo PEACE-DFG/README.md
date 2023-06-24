@@ -53,6 +53,10 @@
 
 [![CODEMaster GitHub stats](https://github-readme-stats.vercel.app/api?username=PEACE-DFG&theme=tokyonight)](https://github.com/PEACE-DFG/github-readme-stats)
 
+---
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PEACE-DFG)](https://github.com/PEACE-DFG/github-readme-stats)
+
 
 [website]:https://github.com/PEACE-DFG
 [website2]:https://app.netlify.com/teams/peace-dfg/overview
