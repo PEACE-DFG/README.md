@@ -30,7 +30,7 @@
 
 [<img align='left' alt="React" width='29px' src="https://th.bing.com/th/id/OIP.A0P5SEAYLh6r2NTCTSEtfwHaHa?pid=ImgDet&rs=1"/>][cssplaylist]
 
-[<img align='left' alt="React" width='29px' src=" https://th.bing.com/th/id/OIP.0WWV380Aud-UG14DMUi0wQHaHa?pid=ImgDet&rs=1"/>][cssplaylist]
+[<img align='left' alt="React" width='29px' src="https://th.bing.com/th/id/OIP.0WWV380Aud-UG14DMUi0wQHaHa?pid=ImgDet&rs=1"/>][cssplaylist]
 
 
 <!-- -->
