@@ -51,7 +51,7 @@
 
 ---
 
-[![CODEMaster GitHub stats](https://github-readme-stats.vercel.app/api?username=PEACE-DFG)](https://github.com/PEACE-DFG/github-readme-stats)
+[![CODEMaster GitHub stats](https://github-readme-stats.vercel.app/api?username=PEACE-DFG&theme=tokyonight)](https://github.com/PEACE-DFG/github-readme-stats)
 
 
 [website]:https://github.com/PEACE-DFG
