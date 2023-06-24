@@ -1,4 +1,4 @@
-### Hi there , I'm CODEMaster - aka  [DFG] 
+### Hi there , I'm CODEMaster - aka  [DFG] <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
 ## I am a FrontEnd Developer, A student, Webdev Teacher, Electrical Engineer and a Musician
 -📚 I am currently learning React💻 <br/>
 -💻 I am Looking to collaborate with other Programmers to Learn From Them<br/>
@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="image" width="22px" src="https://pngimg.com/uploads/github/github_PNG40.png"/>][website]
-[<img align="left" alt="image" src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" width="22px"/>][website2]
+[<img align="left" alt="image" src="https://app.netlify.com/teams/peace-dfg/overview" width="22px"/>][website2]
 
 <br/>
 
@@ -26,8 +26,10 @@
 
 <br/>
 <br/>
-### 📕 Latest BlogPost
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+
+📕 ##Latest BlogPost
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]:https://github.com/PEACE-DFG
 [website2]:https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png
