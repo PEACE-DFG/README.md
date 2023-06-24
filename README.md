@@ -8,7 +8,7 @@
 ### Connect with me:
 
 [<img align="left" alt="image" width="22px" src="https://pngimg.com/uploads/github/github_PNG40.png"/>][website]
-[<img align="left" alt="image" src="https://th.bing.com/th/id/OIP.hXaOT1AkPnxwNC82h6tEwQHaCp?pid=ImgDet&rs=1" width="32px"/>][website2]
+[<img align="left" alt="image" src="https://th.bing.com/th/id/OIP.hXaOT1AkPnxwNC82h6tEwQHaCp?pid=ImgDet&rs=1" width="52px"/>][website2]
 
 <br/>
 
