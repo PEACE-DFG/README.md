@@ -3,7 +3,7 @@
 -📚 I am currently learning React💻 <br/>
 -💻 I am Looking to collaborate with other Programmers to Learn From Them<br/>
 -🥅 2023 goals : Contributte more to Open Source projects<br/>
--⚡Fun Facts: I love musical Instruments Most Importantly Drums 🥁🎶<br/>
+-⚡Fun Facts: I love musical Instruments Most especially Drums 🥁🎶<br/>
 
 ### Connect with me:
 
